@@ -1,3 +1,4 @@
+Final project for DATA144: Data Mining (UC Berkeley)
 # Predicting Song Suggestions Based on Track Metrics
 - Can we accurately predict suggested songs following a playlist, based on the characteristics of a song?
 - Being able to predict songs that have a similar "vibe" can boost creative input, as well as an eclectic music taste
